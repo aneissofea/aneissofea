@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Sofea, a self-taught developer based in KL (for now).
+I'm Sofea, a self-taught developer based in KL.
 
-My background was Mechanical Engineering and I discovered my passion for programming after always wanting to see the algorithm/pattern behind things, and feeling smart in my coding classes. ✨ I love using my creativity to connect people. Being self-taught was challenging, but I'm motivated by the excitement of learning new things and overcoming unfamiliar challenges. 
+My background was Mechanical Engineering and I discovered my passion for programming after always wanting to see the algorithm/pattern behind things, and feeling smart in my coding classes. It is the only time I feel logical. ✨ I love using my creativity to connect people. Being self-taught was challenging, but I'm motivated by the excitement of learning new things and overcoming unfamiliar challenges. 
 
 <!--
 **aneissofea/aneissofea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
