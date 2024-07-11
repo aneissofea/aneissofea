@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sofea, a self-taught developer based in KL.
+I'm Sofea, a self-taught developer based in KL, Malaysia.
 
 My background was Mechanical Engineering and I discovered my passion for programming after always wanting to see the algorithm/pattern behind things, and feeling smart in my coding classes. It is the only time I feel logical. ✨ I love using my creativity to connect people. Being self-taught was challenging, but I'm motivated by the excitement of learning new things and overcoming unfamiliar challenges. 
 
